@@ -11,7 +11,7 @@ const Home = () => {
         <div className="flex flex-col md:flex-row items-center gap-12 max-w-6xl mx-auto">
           <div className="flex-1 animate-slide-in-left">
             <h1 className="text-5xl md:text-6xl font-heading font-bold mb-6">
-              Hi, I'm <span className="gradient-primary bg-clip-text text-transparent">Ayush Khanal</span>
+              Hi, I'm <span className="text-primary">Ayush Khanal</span>
             </h1>
             <p className="text-xl text-muted-foreground mb-2">Business Analytics Student</p>
             <p className="text-lg text-muted-foreground mb-8 max-w-xl">
